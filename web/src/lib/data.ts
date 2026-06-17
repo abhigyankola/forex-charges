@@ -11,13 +11,13 @@ import {
 
 function resolveDataPath(filename: string): string {
   const candidates = [
-    path.join(process.cwd(), "data", filename),
     path.join(process.cwd(), "..", "data", filename),
+    path.join(process.cwd(), "data", filename),
   ];
   for (const p of candidates) {
     if (fs.existsSync(p)) return p;
   }
-  return candidates[0];
+  return candidates[1];
 }
 
 const TYPE_NORMALIZATION: Record<string, TransactionType> = {
@@ -268,12 +268,21 @@ export function getLastScrapedDate(rates: NormalizedRate[]): string {
   const latest = rates.reduce((max, r) =>
     r.scraped_at > max.scraped_at ? r : max
   );
-  return new Date(latest.scraped_at).toLocaleDateString("en-IN", {
+  const date = new Date(latest.scraped_at);
+  const now = new Date();
+  const diffMs = now.getTime() - date.getTime();
+  const diffMins = Math.floor(diffMs / 60000);
+  const diffHours = Math.floor(diffMs / 3600000);
+  const diffDays = Math.floor(diffMs / 86400000);
+
+  if (diffMins < 1) return "just now";
+  if (diffMins < 60) return `${diffMins} min ago`;
+  if (diffHours < 24) return `${diffHours} hour${diffHours > 1 ? "s" : ""} ago`;
+  if (diffDays < 7) return `${diffDays} day${diffDays > 1 ? "s" : ""} ago`;
+  return date.toLocaleDateString("en-IN", {
     year: "numeric",
-    month: "long",
+    month: "short",
     day: "numeric",
-    hour: "2-digit",
-    minute: "2-digit",
   });
 }
 

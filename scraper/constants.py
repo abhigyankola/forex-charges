@@ -53,7 +53,7 @@ CURRENCY_NAMES: dict[str, str] = {
 BANK_URLS: dict[str, str] = {
     "HSBC": "https://www.hsbc.co.in/nri/foreign-exchange-rates/",
     "ICICI": "https://www.icicibank.com/corporate/global-markets/forex/forex-card-rate",
-    "AXIS": "https://application.axisbank.co.in/WebForms/corporatecardrate/index.aspx",
+    "AXIS": "https://application.axis.bank.in/webforms/corporatecardrate/index.aspx",
     "IDFC": "https://www.idfcfirstbank.com/forex-rate",
     "IOB": "https://www.iob.bank.in/en/forex-rates",
     "KOTAK": "https://www.kotak.com/en/rates/forex-rates.html",

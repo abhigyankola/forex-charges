@@ -32,22 +32,24 @@ export default async function CurrencyPage({
     <>
       <Nav lastUpdated={lastUpdated} currentPath="/currency" />
       <main className="mx-auto max-w-6xl px-4 sm:px-6 py-8">
-        <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-          <div>
-            <h1 className="text-[24px] font-semibold tracking-[-0.04em] text-foreground">
-              Compare by Currency
-            </h1>
-            <p className="mt-1 text-[14px] text-muted-foreground">
-              Compare forex rates across banks for a specific currency
-            </p>
+        <div className="sticky top-14 z-40 -mx-4 mb-6 border-b border-border bg-background/80 px-4 py-4 backdrop-blur-sm sm:-mx-6 sm:px-6">
+          <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+            <div>
+              <h1 className="text-[24px] font-semibold tracking-[-0.04em] text-foreground">
+                Compare by Currency
+              </h1>
+              <p className="mt-1 text-[14px] text-muted-foreground">
+                Compare forex rates across banks for a specific currency
+              </p>
+            </div>
+            <Suspense>
+              <CurrencySelector
+                currencies={currencies}
+                currentCode={selectedCode}
+                basePath="/currency"
+              />
+            </Suspense>
           </div>
-          <Suspense>
-            <CurrencySelector
-              currencies={currencies}
-              currentCode={selectedCode}
-              basePath="/currency"
-            />
-          </Suspense>
         </div>
 
         {data.length > 0 ? (

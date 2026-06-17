@@ -114,39 +114,45 @@ class HDFCScraper:
 
         for row_idx in range(header_row_idx + 1, len(table)):
             row = table[row_idx]
-            if not row or len(row) < 2:
+            if not row or len(row) < 3:
                 continue
 
-            currency_cell = str(row[0]).strip() if row[0] else ""
-            currency_match = re.search(r"([A-Z]{3})", currency_cell)
+            # HDFC PDF: column 0 = currency name, column 1 = currency code
+            code_cell = str(row[1]).strip() if row[1] else ""
+            name_cell = str(row[0]).strip() if row[0] else ""
 
-            if not currency_match:
-                currency_code = self._guess_currency_code(currency_cell)
-                if not currency_code:
-                    continue
+            currency_code = None
+            code_match = re.match(r"^[A-Z]{3}$", code_cell)
+            if code_match:
+                currency_code = code_cell
             else:
-                currency_code = currency_match.group(1)
+                currency_match = re.search(r"([A-Z]{3})", name_cell)
+                if currency_match:
+                    currency_code = currency_match.group(1)
+                else:
+                    currency_code = self._guess_currency_code(name_cell)
 
-            if currency_code == "INR":
+            if not currency_code or currency_code == "INR":
                 continue
 
             currency_name = CURRENCY_NAMES.get(currency_code, currency_code)
 
-            for col_idx in range(1, len(row)):
+            # Rates start from column 2 onward
+            for col_idx in range(2, len(row)):
                 if col_idx >= len(row) or not row[col_idx]:
                     continue
+                cell_text = str(row[col_idx]).replace(",", "").strip()
+                if cell_text == "-" or cell_text == "":
+                    continue
                 try:
-                    rate_value = float(str(row[col_idx]).replace(",", "").strip())
+                    rate_value = float(cell_text)
                     if rate_value <= 0:
                         continue
 
                     if col_idx < len(headers):
                         transaction_type = self._map_transaction_type(headers[col_idx])
                     else:
-                        transaction_type = (
-                            TransactionType.CARD_BUY if col_idx % 2 == 1
-                            else TransactionType.CARD_SELL
-                        )
+                        transaction_type = None
 
                     if transaction_type:
                         rates.append(ForexRate(
@@ -203,24 +209,33 @@ class HDFCScraper:
 
     @staticmethod
     def _map_transaction_type(header: str) -> Optional[str]:
-        header_lower = header.lower()
+        header_lower = header.lower().replace("\n", " ").replace("/", "")
 
-        if "buy" in header_lower:
-            if "cash" in header_lower or "currency" in header_lower:
+        is_buy = "buy" in header_lower or "purchase" in header_lower or "cash out" in header_lower or "cashout" in header_lower
+        is_sell = "sell" in header_lower or "sale" in header_lower or "load" in header_lower or "issuance" in header_lower
+
+        if is_buy:
+            if "cash" in header_lower and "card" not in header_lower and "forex" not in header_lower:
                 return TransactionType.CASH_BUY
-            elif "card" in header_lower or "forex" in header_lower:
+            elif "card" in header_lower or "forex" in header_lower or "tc" in header_lower:
                 return TransactionType.CARD_BUY
-            elif "tt" in header_lower or "transfer" in header_lower:
+            elif "tt" in header_lower or "t.t" in header_lower or "transfer" in header_lower:
                 return TransactionType.TT_BUY
-            return TransactionType.CARD_BUY
-        elif "sell" in header_lower:
-            if "cash" in header_lower or "currency" in header_lower:
+            elif "bill" in header_lower:
+                return TransactionType.BILLS_BUY
+            return TransactionType.TT_BUY
+        elif is_sell:
+            if "cash" in header_lower and "card" not in header_lower and "forex" not in header_lower:
                 return TransactionType.CASH_SELL
-            elif "card" in header_lower or "forex" in header_lower:
+            elif "card" in header_lower or "forex" in header_lower or "tc" in header_lower or "load" in header_lower:
                 return TransactionType.CARD_SELL
-            elif "tt" in header_lower or "transfer" in header_lower:
+            elif "tt" in header_lower or "t.t" in header_lower or "transfer" in header_lower:
                 return TransactionType.TT_SELL
-            return TransactionType.CARD_SELL
+            elif "bill" in header_lower:
+                return TransactionType.BILLS_SELL
+            elif "dd" in header_lower or "issuance" in header_lower:
+                return TransactionType.BILLS_SELL
+            return TransactionType.TT_SELL
 
         return None
 

@@ -11,15 +11,15 @@ import {
 } from "@/components/ui/table";
 import { BankCurrencyRates, TransactionType } from "@/lib/types";
 
-const COLUMNS: { key: TransactionType; label: string }[] = [
-  { key: "tt_buy", label: "TT Buy" },
-  { key: "tt_sell", label: "TT Sell" },
-  { key: "card_buy", label: "Card Buy" },
-  { key: "card_sell", label: "Card Sell" },
-  { key: "cash_buy", label: "Cash Buy" },
-  { key: "cash_sell", label: "Cash Sell" },
-  { key: "bills_buy", label: "Bills Buy" },
-  { key: "bills_sell", label: "Bills Sell" },
+const COLUMNS: { key: TransactionType; label: string; tooltip: string }[] = [
+  { key: "tt_buy", label: "TT Buy", tooltip: "Telegraphic Transfer Buy — rate when you sell foreign currency via wire transfer" },
+  { key: "tt_sell", label: "TT Sell", tooltip: "Telegraphic Transfer Sell — rate when you buy foreign currency via wire transfer" },
+  { key: "card_buy", label: "Card Buy", tooltip: "Forex Card Buy — rate when loading foreign currency onto a prepaid card" },
+  { key: "card_sell", label: "Card Sell", tooltip: "Forex Card Sell — rate when unloading/refunding forex card balance" },
+  { key: "cash_buy", label: "Cash Buy", tooltip: "Cash Buy — rate when exchanging physical foreign currency notes (bank buys from you)" },
+  { key: "cash_sell", label: "Cash Sell", tooltip: "Cash Sell — rate when buying physical foreign currency notes from the bank" },
+  { key: "bills_buy", label: "Bills Buy", tooltip: "Bills Buy — rate for purchasing foreign currency demand drafts/cheques" },
+  { key: "bills_sell", label: "Bills Sell", tooltip: "Bills Sell — rate for selling/encashing foreign currency instruments" },
 ];
 
 type SortDirection = "asc" | "desc" | null;
@@ -101,9 +101,12 @@ export function RateTable({ data }: { data: BankCurrencyRates[] }) {
             {visibleColumns.map((col) => (
               <TableHead
                 key={col.key}
-                className="cursor-pointer select-none text-right text-[12px] font-semibold uppercase tracking-wide text-muted-foreground transition-colors hover:text-foreground"
+                className="group/tip relative cursor-pointer select-none text-right text-[12px] font-semibold uppercase tracking-wide text-muted-foreground transition-colors hover:text-foreground"
                 onClick={() => handleSort(col.key)}
               >
+                <span className="pointer-events-none absolute -top-9 right-0 z-50 hidden w-max max-w-[200px] rounded-md bg-foreground px-2 py-1 text-[11px] font-normal normal-case tracking-normal text-background shadow-md group-hover/tip:block">
+                  {col.tooltip}
+                </span>
                 {col.label}{getSortIndicator(col.key)}
               </TableHead>
             ))}
@@ -127,13 +130,13 @@ export function RateTable({ data }: { data: BankCurrencyRates[] }) {
                     key={col.key}
                     className={`text-right font-mono text-[13px] ${
                       isBest
-                        ? "bg-emerald-950/30 font-medium text-emerald-400"
+                        ? "bg-emerald-100 font-medium text-emerald-700 dark:bg-emerald-950/30 dark:text-emerald-400"
                         : isWorst
-                          ? "bg-red-950/20 text-red-400"
+                          ? "bg-red-50 text-red-600 dark:bg-red-950/20 dark:text-red-400"
                           : "text-foreground"
                     }`}
                   >
-                    {value != null ? value.toFixed(2) : "—"}
+                    {value != null ? `₹${value.toFixed(2)}` : "—"}
                   </TableCell>
                 );
               })}

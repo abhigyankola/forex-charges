@@ -1,10 +1,10 @@
 import Link from "next/link";
+import { ThemeToggle } from "./theme-toggle";
 
 const links = [
   { href: "/", label: "Overview" },
-  { href: "/currency", label: "By Currency" },
-  { href: "/bank", label: "By Bank" },
-  { href: "/best-rates", label: "Best Rates" },
+  { href: "/currency", label: "Compare Rates" },
+  { href: "/bank", label: "Bank Details" },
   { href: "/info", label: "Info" },
 ];
 
@@ -46,9 +46,12 @@ export function Nav({
             })}
           </nav>
         </div>
-        <span className="hidden text-[12px] text-muted-foreground sm:block">
-          Updated {lastUpdated}
-        </span>
+        <div className="flex items-center gap-3">
+          <span className="hidden text-[12px] text-muted-foreground sm:block">
+            Updated {lastUpdated}
+          </span>
+          <ThemeToggle />
+        </div>
       </div>
       {/* Mobile navigation */}
       <nav className="flex overflow-x-auto border-t border-border px-4 sm:hidden">

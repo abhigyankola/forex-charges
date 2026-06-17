@@ -34,6 +34,17 @@ const TAB_TYPES: Record<TabCategory, TransactionType[]> = {
 
 type SortDirection = "asc" | "desc" | null;
 
+const COLUMN_TOOLTIPS: Record<string, string> = {
+  tt_buy: "Telegraphic Transfer Buy — rate when you sell foreign currency via wire transfer",
+  tt_sell: "Telegraphic Transfer Sell — rate when you buy foreign currency via wire transfer",
+  card_buy: "Forex Card Buy — rate when loading foreign currency onto a prepaid card",
+  card_sell: "Forex Card Sell — rate when unloading/refunding forex card balance",
+  cash_buy: "Cash Buy — rate when exchanging physical foreign currency notes (bank buys from you)",
+  cash_sell: "Cash Sell — rate when buying physical foreign currency notes from the bank",
+  bills_buy: "Bills Buy — rate for purchasing foreign currency demand drafts/cheques",
+  bills_sell: "Bills Sell — rate for selling/encashing foreign currency instruments",
+};
+
 export function BankRateTable({ grouped }: { grouped: GroupedCurrency[] }) {
   return (
     <Tabs defaultValue="all">
@@ -128,9 +139,12 @@ function SortableTabTable({
             {visibleTypes.map((t) => (
               <TableHead
                 key={t}
-                className="cursor-pointer select-none text-right text-[12px] font-semibold uppercase tracking-wide text-muted-foreground transition-colors hover:text-foreground"
+                className="group/tip relative cursor-pointer select-none text-right text-[12px] font-semibold uppercase tracking-wide text-muted-foreground transition-colors hover:text-foreground"
                 onClick={() => handleSort(t)}
               >
+                <span className="pointer-events-none absolute -top-9 right-0 z-50 hidden w-max max-w-[200px] rounded-md bg-foreground px-2 py-1 text-[11px] font-normal normal-case tracking-normal text-background shadow-md group-hover/tip:block">
+                  {COLUMN_TOOLTIPS[t]}
+                </span>
                 {TRANSACTION_TYPE_LABELS[t]}{getSortIndicator(t)}
               </TableHead>
             ))}
@@ -150,7 +164,7 @@ function SortableTabTable({
                   key={t}
                   className="text-right font-mono text-[13px] text-foreground"
                 >
-                  {g.rates[t] != null ? g.rates[t].toFixed(2) : "—"}
+                  {g.rates[t] != null ? `₹${g.rates[t].toFixed(2)}` : "—"}
                 </TableCell>
               ))}
             </TableRow>
