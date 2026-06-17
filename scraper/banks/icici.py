@@ -30,67 +30,89 @@ class ICICIScraper(BaseScraper):
     def parse_rates(self, soup: BeautifulSoup) -> List[ForexRate]:
         rates = []
 
-        tables = soup.find_all("table", class_=re.compile(r"rate|forex|currency", re.I))
+        tables = soup.find_all("table")
 
         for table in tables:
             rows = table.find_all("tr")
+            if len(rows) < 3:
+                continue
+
+            # Try to find header row to determine column mapping
+            header_row = None
+            for row in rows[:5]:
+                text = row.get_text(strip=True).lower()
+                if "buy" in text and "sell" in text:
+                    header_row = row
+                    break
 
             for row in rows:
                 cells = row.find_all("td")
                 if len(cells) < 3:
                     continue
-                try:
-                    currency_text = cells[0].get_text(strip=True)
+
+                # First cell should contain currency name + code
+                currency_text = cells[0].get_text(strip=True)
+                currency_match = re.search(r"\(([A-Z]{3})\)", currency_text)
+                if not currency_match:
                     currency_match = re.search(r"([A-Z]{3})", currency_text)
-                    if not currency_match:
-                        continue
-
-                    currency_code = currency_match.group(1)
-                    currency_name = re.sub(r"[A-Z]{3}", "", currency_text).strip(" -")
-
-                    rate_mappings = [
-                        (1, TransactionType.CARD_BUY),
-                        (2, TransactionType.CARD_SELL),
-                    ]
-
-                    for cell_idx, transaction_type in rate_mappings:
-                        if cell_idx < len(cells):
-                            rate_value = self.clean_rate(cells[cell_idx].get_text(strip=True))
-                            if rate_value:
-                                rates.append(ForexRate(
-                                    bank_name=self.bank_name,
-                                    currency_code=currency_code,
-                                    currency_name=currency_name,
-                                    transaction_type=transaction_type,
-                                    rate=rate_value,
-                                ))
-                except Exception as e:
-                    print(f"Error parsing ICICI rate row: {e}")
+                if not currency_match:
                     continue
 
-        scripts = soup.find_all("script")
-        for script in scripts:
-            if script.string and "rates" in script.string.lower():
-                try:
-                    json_match = re.search(r"({.*?rates.*?})", script.string, re.S)
-                    if json_match:
-                        json.loads(json_match.group(1))
-                except (json.JSONDecodeError, AttributeError):
+                currency_code = currency_match.group(1)
+                if currency_code in ("INR", "BAN", "RAT", "CUR", "FOR"):
                     continue
 
-        if not rates:
-            rate_containers = soup.find_all(
-                "div", class_=re.compile(r"rate|forex|currency", re.I)
-            )
-            for container in rate_containers:
-                currency_elements = container.find_all(text=re.compile(r"[A-Z]{3}"))
-                for elem in currency_elements:
-                    parent = elem.parent
-                    if parent:
-                        rate_texts = parent.find_all(text=re.compile(r"\d+\.?\d*"))
-                        for rate_text in rate_texts:
-                            rate_value = self.clean_rate(rate_text)
-                            if rate_value:
-                                pass
+                currency_name = re.sub(r"\s*\([A-Z]{3}\)\s*", "", currency_text).strip()
+                if not currency_name:
+                    currency_name = currency_code
+
+                # ICICI table: 10 rate columns
+                # Buy side: TT Buy, Bills Buy, Cash Buy, Card Buy, DD Buy
+                # Sell side: TT Sell, Bills Sell, Cash Sell, Card Sell, DD Sell
+                col_mapping_10 = [
+                    (1, TransactionType.TT_BUY),
+                    (2, TransactionType.BILLS_BUY),
+                    (3, TransactionType.CASH_BUY),
+                    (4, TransactionType.CARD_BUY),
+                    # (5, DD buy - skip)
+                    (6, TransactionType.TT_SELL),
+                    (7, TransactionType.BILLS_SELL),
+                    (8, TransactionType.CASH_SELL),
+                    (9, TransactionType.CARD_SELL),
+                    # (10, DD sell - skip)
+                ]
+
+                # Fallback for fewer columns
+                col_mapping_4 = [
+                    (1, TransactionType.TT_BUY),
+                    (2, TransactionType.TT_SELL),
+                    (3, TransactionType.CARD_BUY),
+                    (4, TransactionType.CARD_SELL),
+                ]
+
+                col_mapping_2 = [
+                    (1, TransactionType.CARD_BUY),
+                    (2, TransactionType.CARD_SELL),
+                ]
+
+                num_cells = len(cells)
+                if num_cells >= 11:
+                    mapping = col_mapping_10
+                elif num_cells >= 5:
+                    mapping = col_mapping_4
+                else:
+                    mapping = col_mapping_2
+
+                for cell_idx, transaction_type in mapping:
+                    if cell_idx < num_cells:
+                        rate_value = self.clean_rate(cells[cell_idx].get_text(strip=True))
+                        if rate_value:
+                            rates.append(ForexRate(
+                                bank_name=self.bank_name,
+                                currency_code=currency_code,
+                                currency_name=currency_name,
+                                transaction_type=transaction_type,
+                                rate=rate_value,
+                            ))
 
         return rates

@@ -208,23 +208,30 @@ class SBIScraper:
 
     @staticmethod
     def _map_transaction_type(header: str) -> Optional[str]:
-        header_lower = header.lower()
+        header_lower = header.lower().replace("\n", " ")
 
-        if "buy" in header_lower:
-            if "cash" in header_lower:
+        is_buy = "buy" in header_lower
+        is_sell = "sell" in header_lower
+
+        if is_buy:
+            if "cn" in header_lower or "cash" in header_lower or "currency note" in header_lower:
                 return TransactionType.CASH_BUY
             elif "card" in header_lower or "forex" in header_lower:
                 return TransactionType.CARD_BUY
-            elif "tt" in header_lower:
+            elif "tt" in header_lower or "t.t" in header_lower:
                 return TransactionType.TT_BUY
-            return "buy"
-        elif "sell" in header_lower:
-            if "cash" in header_lower:
+            elif "bill" in header_lower:
+                return TransactionType.BILLS_BUY
+            return TransactionType.TT_BUY
+        elif is_sell:
+            if "cn" in header_lower or "cash" in header_lower or "currency note" in header_lower:
                 return TransactionType.CASH_SELL
             elif "card" in header_lower or "forex" in header_lower:
                 return TransactionType.CARD_SELL
-            elif "tt" in header_lower:
+            elif "tt" in header_lower or "t.t" in header_lower:
                 return TransactionType.TT_SELL
-            return "sell"
+            elif "bill" in header_lower:
+                return TransactionType.BILLS_SELL
+            return TransactionType.TT_SELL
 
         return None
