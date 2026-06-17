@@ -81,7 +81,7 @@ export default function InfoPage() {
           <h2 className="mb-4 text-[16px] font-semibold text-foreground">
             Rate types explained
           </h2>
-          <div className="overflow-hidden rounded-md border border-border">
+          <div className="overflow-x-auto rounded-md border border-border">
             <table className="w-full text-[13px]">
               <thead>
                 <tr className="border-b border-border bg-secondary">
@@ -173,7 +173,7 @@ export default function InfoPage() {
           <h2 className="mb-4 text-[16px] font-semibold text-foreground">
             Which rate applies to me?
           </h2>
-          <div className="overflow-hidden rounded-md border border-border">
+          <div className="overflow-x-auto rounded-md border border-border">
             <table className="w-full text-[13px]">
               <thead>
                 <tr className="border-b border-border bg-secondary">

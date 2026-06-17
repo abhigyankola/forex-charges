@@ -15,7 +15,7 @@ export default function BestRatesPage() {
   return (
     <>
       <Nav lastUpdated={lastUpdated} currentPath="/best-rates" />
-      <main className="mx-auto max-w-6xl px-6 py-8">
+      <main className="mx-auto max-w-6xl px-4 sm:px-6 py-8">
         <div className="mb-8">
           <h1 className="text-[24px] font-semibold tracking-[-0.04em] text-foreground">
             Best Rates

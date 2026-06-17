@@ -32,7 +32,7 @@ export default function DashboardPage() {
   return (
     <>
       <Nav lastUpdated={lastUpdated} currentPath="/" />
-      <main className="mx-auto max-w-6xl px-6 py-8">
+      <main className="mx-auto max-w-6xl px-4 sm:px-6 py-8">
         <div className="mb-8">
           <h1 className="text-[24px] font-semibold tracking-[-0.04em] text-foreground">
             Overview
@@ -75,7 +75,7 @@ export default function DashboardPage() {
               View all &rarr;
             </Link>
           </div>
-          <div className="overflow-hidden rounded-md border border-border">
+          <div className="overflow-x-auto rounded-md border border-border">
             <Table>
               <TableHeader>
                 <TableRow className="hover:bg-transparent">

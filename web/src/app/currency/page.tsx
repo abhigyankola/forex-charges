@@ -31,7 +31,7 @@ export default async function CurrencyPage({
   return (
     <>
       <Nav lastUpdated={lastUpdated} currentPath="/currency" />
-      <main className="mx-auto max-w-6xl px-6 py-8">
+      <main className="mx-auto max-w-6xl px-4 sm:px-6 py-8">
         <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
           <div>
             <h1 className="text-[24px] font-semibold tracking-[-0.04em] text-foreground">

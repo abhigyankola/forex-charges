@@ -75,7 +75,7 @@ export default async function BankPage({
   return (
     <>
       <Nav lastUpdated={lastUpdated} currentPath="/bank" />
-      <main className="mx-auto max-w-6xl px-6 py-8">
+      <main className="mx-auto max-w-6xl px-4 sm:px-6 py-8">
         <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
           <div>
             <h1 className="text-[24px] font-semibold tracking-[-0.04em] text-foreground">
@@ -124,7 +124,7 @@ export default async function BankPage({
 
               return (
                 <TabsContent key={tabKey} value={tabKey}>
-                  <div className="overflow-hidden rounded-md border border-border">
+                  <div className="overflow-x-auto rounded-md border border-border">
                     <Table>
                       <TableHeader>
                         <TableRow className="hover:bg-transparent">
