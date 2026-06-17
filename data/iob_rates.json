@@ -1,0 +1,506 @@
+[
+  {
+    "bank_name": "IOB",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 55.62,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773565"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 56.23,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773578"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 55.59,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773582"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 56.26,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773584"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 62.3,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773612"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 62.99,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773614"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 62.27,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773615"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 63.02,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773617"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_sell",
+    "rate": 106.71,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773636"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "bills_sell",
+    "rate": 107.89,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773638"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_buy",
+    "rate": 106.66,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773640"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "bills_buy",
+    "rate": 107.94,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773641"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "tt_sell",
+    "rate": 13.32,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773659"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "bills_sell",
+    "rate": 13.46,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773660"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "tt_buy",
+    "rate": 13.31,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773662"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "bills_buy",
+    "rate": 13.47,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773663"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_sell",
+    "rate": 99.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773680"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "bills_sell",
+    "rate": 100.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773681"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_buy",
+    "rate": 99.51,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773683"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "bills_buy",
+    "rate": 100.61,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773684"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "tt_sell",
+    "rate": 115.08,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773699"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "bills_sell",
+    "rate": 116.23,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773701"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "tt_buy",
+    "rate": 115.02,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773702"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "bills_buy",
+    "rate": 116.29,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773704"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 10.91,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773719"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 11.03,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773721"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 10.9,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773722"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 11.04,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773724"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_sell",
+    "rate": 0.5761,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773742"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "bills_sell",
+    "rate": 0.5824,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773743"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_buy",
+    "rate": 0.5758,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773745"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "bills_buy",
+    "rate": 0.5827,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773746"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "LKR",
+    "currency_name": "Sri Lankan Rupee",
+    "transaction_type": "tt_sell",
+    "rate": 0.28350000000000003,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773762"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "LKR",
+    "currency_name": "Sri Lankan Rupee",
+    "transaction_type": "bills_sell",
+    "rate": 0.2878,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773763"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "LKR",
+    "currency_name": "Sri Lankan Rupee",
+    "transaction_type": "tt_buy",
+    "rate": 0.2834,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773764"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "LKR",
+    "currency_name": "Sri Lankan Rupee",
+    "transaction_type": "bills_buy",
+    "rate": 0.2879,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773766"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "tt_sell",
+    "rate": 8.33,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773781"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "bills_sell",
+    "rate": 8.42,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773782"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "tt_buy",
+    "rate": 8.33,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773784"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "bills_buy",
+    "rate": 8.42,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773785"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 50.99,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773800"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 51.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773801"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 50.96,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773803"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 51.59,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773804"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "tt_sell",
+    "rate": 8.8,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773819"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "bills_sell",
+    "rate": 8.9,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773820"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "tt_buy",
+    "rate": 8.8,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773822"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "bills_buy",
+    "rate": 8.9,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773823"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 66.67,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773838"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 67.4,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773839"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 66.64,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773841"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 67.43,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773842"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 85.89,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773857"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 86.41,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773859"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 85.85,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773860"
+  },
+  {
+    "bank_name": "IOB",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 86.45,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:20:56.773862"
+  }
+]

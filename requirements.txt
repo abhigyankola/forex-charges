@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+selenium
+webdriver-manager
+pdfplumber
+PyPDF2
+lxml
+openpyxl
+python-dateutil

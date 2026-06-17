@@ -1,0 +1,1046 @@
+[
+  {
+    "bank_name": "HSBC",
+    "currency_code": "GBP",
+    "currency_name": "Great Britain Pound",
+    "transaction_type": "bills_buy",
+    "rate": 112.64,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143935"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "GBP",
+    "currency_name": "Great Britain Pound",
+    "transaction_type": "bills_sell",
+    "rate": 118.4,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143948"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "GBP",
+    "currency_name": "Great Britain Pound",
+    "transaction_type": "tt_buy",
+    "rate": 112.64,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143951"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "GBP",
+    "currency_name": "Great Britain Pound",
+    "transaction_type": "tt_sell",
+    "rate": 118.4,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143953"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "GBP",
+    "currency_name": "Great Britain Pound",
+    "transaction_type": "currency_buy",
+    "rate": 114.45,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143954"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "GBP",
+    "currency_name": "Great Britain Pound",
+    "transaction_type": "currency_sell",
+    "rate": 117.15,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143956"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 84.36,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143980"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 87.65,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143981"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 84.36,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143983"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 87.65,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143984"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "transaction_type": "currency_buy",
+    "rate": 85.4,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143986"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "transaction_type": "currency_sell",
+    "rate": 87.0,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.143987"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 61.04,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144005"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 64.17,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144006"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 61.04,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144008"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 64.17,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144009"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "currency_buy",
+    "rate": 61.15,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144011"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "currency_sell",
+    "rate": 66.65,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144012"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "bills_buy",
+    "rate": 97.5,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144029"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "bills_sell",
+    "rate": 102.49,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144031"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_buy",
+    "rate": 97.5,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144032"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_sell",
+    "rate": 102.49,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144033"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "currency_buy",
+    "rate": 98.9,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144035"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "currency_sell",
+    "rate": 101.5,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144036"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 54.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144052"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 57.35,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144054"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 54.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144055"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 57.35,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144057"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "currency_buy",
+    "rate": 54.5,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144058"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "currency_sell",
+    "rate": 59.7,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144060"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 10.64,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144075"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 11.27,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144077"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 10.64,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144078"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 11.27,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144080"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "currency_buy",
+    "rate": 10.8,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144081"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "currency_sell",
+    "rate": 11.35,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144082"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 65.03,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144097"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 68.87,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144099"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 65.03,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144100"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 68.87,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144102"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "currency_buy",
+    "rate": 66.35,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144103"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "currency_sell",
+    "rate": 70.25,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144105"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AED",
+    "currency_name": "United Arab Emirates Dirham",
+    "transaction_type": "bills_buy",
+    "rate": 22.75,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144120"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AED",
+    "currency_name": "United Arab Emirates Dirham",
+    "transaction_type": "bills_sell",
+    "rate": 24.09,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144121"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AED",
+    "currency_name": "United Arab Emirates Dirham",
+    "transaction_type": "tt_buy",
+    "rate": 22.75,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144123"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AED",
+    "currency_name": "United Arab Emirates Dirham",
+    "transaction_type": "tt_sell",
+    "rate": 24.09,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144124"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AED",
+    "currency_name": "United Arab Emirates Dirham",
+    "transaction_type": "currency_buy",
+    "rate": 23.4,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144127"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "AED",
+    "currency_name": "United Arab Emirates Dirham",
+    "transaction_type": "currency_sell",
+    "rate": 23.65,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144129"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NZD",
+    "currency_name": "New Zeland Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 49.98,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144144"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NZD",
+    "currency_name": "New Zeland Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 52.54,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144146"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NZD",
+    "currency_name": "New Zeland Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 49.98,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144147"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NZD",
+    "currency_name": "New Zeland Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 52.54,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144148"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NZD",
+    "currency_name": "New Zeland Dollar",
+    "transaction_type": "currency_buy",
+    "rate": 49.75,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144150"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NZD",
+    "currency_name": "New Zeland Dollar",
+    "transaction_type": "currency_sell",
+    "rate": 54.8,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144151"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "bills_buy",
+    "rate": 221.55,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144167"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "bills_sell",
+    "rate": 234.66,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144168"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "tt_buy",
+    "rate": 221.55,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144169"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "tt_sell",
+    "rate": 234.66,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144171"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "currency_buy",
+    "rate": 228.15,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144172"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "currency_sell",
+    "rate": 228.75,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144174"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "bills_buy",
+    "rate": 104.5,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144189"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "bills_sell",
+    "rate": 109.86,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144190"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_buy",
+    "rate": 104.5,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144192"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_sell",
+    "rate": 109.86,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144193"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "currency_buy",
+    "rate": 105.7,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144194"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "currency_sell",
+    "rate": 109.05,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144196"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "bills_buy",
+    "rate": 13.01,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144211"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "bills_sell",
+    "rate": 13.78,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144212"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "tt_buy",
+    "rate": 13.01,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144214"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "tt_sell",
+    "rate": 13.78,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144215"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "currency_buy",
+    "rate": 13.4,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144216"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "currency_sell",
+    "rate": 13.65,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144218"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "bills_buy",
+    "rate": 0.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144233"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "bills_sell",
+    "rate": 0.59,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144234"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_buy",
+    "rate": 0.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144236"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_sell",
+    "rate": 0.59,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144237"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "currency_buy",
+    "rate": 57.9,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144239"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "currency_sell",
+    "rate": 60.2,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144241"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "bills_buy",
+    "rate": 273.19,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144256"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "bills_sell",
+    "rate": 289.48,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144257"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "tt_buy",
+    "rate": 273.19,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144259"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "tt_sell",
+    "rate": 289.48,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144260"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "currency_buy",
+    "rate": 281.45,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144261"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "currency_sell",
+    "rate": 282.2,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144263"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "MXN",
+    "currency_name": "Mexican Peso",
+    "transaction_type": "bills_buy",
+    "rate": 4.47,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144278"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "MXN",
+    "currency_name": "Mexican Peso",
+    "transaction_type": "bills_sell",
+    "rate": 4.7,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144279"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "MXN",
+    "currency_name": "Mexican Peso",
+    "transaction_type": "tt_buy",
+    "rate": 4.47,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144281"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "MXN",
+    "currency_name": "Mexican Peso",
+    "transaction_type": "tt_sell",
+    "rate": 4.7,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144282"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "bills_buy",
+    "rate": 8.16,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144302"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "bills_sell",
+    "rate": 8.58,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144303"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "tt_buy",
+    "rate": 8.16,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144305"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "tt_sell",
+    "rate": 8.58,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144306"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "currency_buy",
+    "rate": 8.4,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144308"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "currency_sell",
+    "rate": 8.6,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144310"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "bills_buy",
+    "rate": 216.95,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144325"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "bills_sell",
+    "rate": 229.76,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144326"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "tt_buy",
+    "rate": 216.95,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144328"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "tt_sell",
+    "rate": 229.76,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144329"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "currency_buy",
+    "rate": 221.4,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144331"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "currency_sell",
+    "rate": 226.0,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144332"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "QAR",
+    "currency_name": "Qatari Riyal",
+    "transaction_type": "bills_buy",
+    "rate": 22.91,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144347"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "QAR",
+    "currency_name": "Qatari Riyal",
+    "transaction_type": "bills_sell",
+    "rate": 24.28,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144348"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "QAR",
+    "currency_name": "Qatari Riyal",
+    "transaction_type": "tt_buy",
+    "rate": 22.91,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144350"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "QAR",
+    "currency_name": "Qatari Riyal",
+    "transaction_type": "tt_sell",
+    "rate": 24.28,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144352"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "bills_buy",
+    "rate": 22.27,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144370"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "bills_sell",
+    "rate": 23.59,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144371"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "tt_buy",
+    "rate": 22.27,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144373"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "tt_sell",
+    "rate": 23.59,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144374"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "currency_buy",
+    "rate": 22.95,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144376"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "currency_sell",
+    "rate": 23.15,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144377"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "bills_buy",
+    "rate": 8.63,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144393"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "bills_sell",
+    "rate": 9.07,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144394"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "tt_buy",
+    "rate": 8.63,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144396"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "tt_sell",
+    "rate": 9.07,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144397"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "currency_buy",
+    "rate": 8.85,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144399"
+  },
+  {
+    "bank_name": "HSBC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "currency_sell",
+    "rate": 9.1,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:07:20.144400"
+  }
+]

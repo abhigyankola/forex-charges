@@ -1,0 +1,452 @@
+[
+  {
+    "bank_name": "ICICI",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 84.34,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132560"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 84.34,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132580"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "EUR",
+    "currency_name": "Euro ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 97.66,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132613"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "EUR",
+    "currency_name": "Euro ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 97.66,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132615"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "GBP",
+    "currency_name": "Great Britain Pound ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 112.59,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132640"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "GBP",
+    "currency_name": "Great Britain Pound ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 112.59,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132642"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 54.63,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132664"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 54.63,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132665"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 60.95,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132690"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 60.95,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132692"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 65.74,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132712"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 65.74,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132716"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 56.29,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132737"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 56.29,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132738"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "AED",
+    "currency_name": "U.A.E Dirham ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 22.68,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132758"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "AED",
+    "currency_name": "U.A.E Dirham ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 22.68,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132760"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 104.61,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132778"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 104.61,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132780"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 22.23,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132799"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 22.23,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132801"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "QAR",
+    "currency_name": "Qatari Riyal ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 23.03,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132820"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "QAR",
+    "currency_name": "Qatari Riyal ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 23.03,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132822"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Kronor ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 8.54,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132841"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Kronor ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 8.54,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132843"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "DKK",
+    "currency_name": "Danish Kroner ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 12.91,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132861"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "DKK",
+    "currency_name": "Danish Kroner ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 12.91,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132862"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Kroner ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 8.06,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132884"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Kroner ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 8.06,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132885"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar()",
+    "transaction_type": "card_rate_buy",
+    "rate": 50.03,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132905"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar()",
+    "transaction_type": "card_rate_sell",
+    "rate": 50.03,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132906"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar()",
+    "transaction_type": "card_rate_buy",
+    "rate": 10.64,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132926"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar()",
+    "transaction_type": "card_rate_sell",
+    "rate": 10.64,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132927"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 268.57,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132946"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 268.57,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132948"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 2.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132967"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 2.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132968"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 4.61,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132987"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 4.61,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.132988"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "OMR",
+    "currency_name": "Omani Riyal ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 216.94,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133006"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "OMR",
+    "currency_name": "Omani Riyal ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 216.94,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133007"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "KRW",
+    "currency_name": "Korean Won ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 0.059,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133025"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "KRW",
+    "currency_name": "Korean Won ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 0.059,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133027"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 11.43,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133046"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 11.43,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133047"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "PLN",
+    "currency_name": "Poland Zloty ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 22.59,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133065"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "PLN",
+    "currency_name": "Poland Zloty ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 22.59,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133067"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 220.91,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133085"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 220.91,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133086"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit ()",
+    "transaction_type": "card_rate_buy",
+    "rate": 19.33,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133105"
+  },
+  {
+    "bank_name": "ICICI",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit ()",
+    "transaction_type": "card_rate_sell",
+    "rate": 19.33,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:30:34.133106"
+  }
+]

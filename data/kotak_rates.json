@@ -1,0 +1,1442 @@
+[
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 92.45,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.437942"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "card_buy",
+    "rate": 93.09,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.437968"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 92.27,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.437972"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 93.54,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.437977"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "cash_buy",
+    "rate": 117.81,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438060"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "card_buy",
+    "rate": 118.33,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438066"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "bills_buy",
+    "rate": 116.46,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438070"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_buy",
+    "rate": 118.58,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438075"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 66.71,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438127"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "card_buy",
+    "rate": 67.1,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438131"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 65.92,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438135"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 67.26,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438139"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "cash_buy",
+    "rate": 124.19,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438182"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "card_buy",
+    "rate": 124.19,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438185"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "bills_buy",
+    "rate": 122.86,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438189"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "tt_buy",
+    "rate": 124.93,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438193"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "cash_buy",
+    "rate": 25.12,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438232"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "card_buy",
+    "rate": 25.26,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438236"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "bills_buy",
+    "rate": 23.94,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438240"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "tt_buy",
+    "rate": 24.92,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438243"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "cash_buy",
+    "rate": 0.5672,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438284"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "card_buy",
+    "rate": 0.5721,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438288"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "bills_buy",
+    "rate": 0.5589999999999999,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438291"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_buy",
+    "rate": 0.5781000000000001,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438295"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 11.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438335"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "card_buy",
+    "rate": 11.74,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438339"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 11.45,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438342"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 11.8,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438346"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "cash_buy",
+    "rate": 9.67,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438384"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "card_buy",
+    "rate": 9.8,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438387"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "bills_buy",
+    "rate": 9.66,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438391"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "tt_buy",
+    "rate": 9.96,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438394"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "cash_buy",
+    "rate": 5.46,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438431"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "card_buy",
+    "rate": 5.55,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438435"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "bills_buy",
+    "rate": 5.48,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438438"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "tt_buy",
+    "rate": 5.67,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438442"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "cash_buy",
+    "rate": 24.11,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438477"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "card_buy",
+    "rate": 24.32,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438481"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "bills_buy",
+    "rate": 23.92,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438484"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "tt_buy",
+    "rate": 24.56,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438487"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 65.13,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438523"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "card_buy",
+    "rate": 65.62,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438527"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 64.88,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438530"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 66.26,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438534"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 54.46,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438572"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "card_buy",
+    "rate": 54.86,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438575"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 54.22,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438579"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 55.36,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438582"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "cash_buy",
+    "rate": 13.94,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438704"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "card_buy",
+    "rate": 14.1,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438734"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "bills_buy",
+    "rate": 13.76,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438761"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "tt_buy",
+    "rate": 14.29,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438768"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 72.44,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438823"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "card_buy",
+    "rate": 72.82,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438845"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 71.71,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438849"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 72.89,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438853"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "cash_buy",
+    "rate": 107.06,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438921"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "card_buy",
+    "rate": 107.62,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438928"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "bills_buy",
+    "rate": 106.39,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438930"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_buy",
+    "rate": 108.3,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438933"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "cash_buy",
+    "rate": 13.26,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438979"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "card_buy",
+    "rate": 13.26,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438981"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "bills_buy",
+    "rate": 13.2,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438982"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "tt_buy",
+    "rate": 13.58,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.438984"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "cash_buy",
+    "rate": 212.95,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439007"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "card_buy",
+    "rate": 214.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439009"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "bills_buy",
+    "rate": 216.16,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439010"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "tt_buy",
+    "rate": 216.48,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439012"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "cash_buy",
+    "rate": 208.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439031"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "card_buy",
+    "rate": 209.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439033"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "bills_buy",
+    "rate": 211.5,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439034"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "tt_buy",
+    "rate": 211.82,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439036"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "cash_buy",
+    "rate": 2.74,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439053"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "card_buy",
+    "rate": 2.77,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439054"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "bills_buy",
+    "rate": 2.78,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439056"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "tt_buy",
+    "rate": 2.82,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439057"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "cash_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439134"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "card_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439141"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "bills_buy",
+    "rate": 297.44,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439145"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "tt_buy",
+    "rate": 302.86,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439148"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 96.82,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439271"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 98.09,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439275"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "card_sell",
+    "rate": 97.27,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439279"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 97.91,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439282"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_sell",
+    "rate": 124.28,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439321"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "bills_sell",
+    "rate": 126.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439325"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "card_sell",
+    "rate": 124.53,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439328"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "cash_sell",
+    "rate": 125.05,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439332"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 70.6,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439376"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 71.94,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439379"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "card_sell",
+    "rate": 70.76,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439383"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 71.15,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439386"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "tt_sell",
+    "rate": 130.43,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439424"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "bills_sell",
+    "rate": 132.5,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439428"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "card_sell",
+    "rate": 131.17,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439432"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "cash_sell",
+    "rate": 131.17,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439435"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "tt_sell",
+    "rate": 26.91,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439474"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "bills_sell",
+    "rate": 27.89,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439478"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "card_sell",
+    "rate": 26.57,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439481"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "cash_sell",
+    "rate": 26.71,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439484"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_sell",
+    "rate": 0.617,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439524"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "bills_sell",
+    "rate": 0.6361,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439528"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "card_sell",
+    "rate": 0.623,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439531"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "cash_sell",
+    "rate": 0.6279,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439534"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 12.5,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439573"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 12.85,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439577"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "card_sell",
+    "rate": 12.56,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439580"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 12.62,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439584"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "tt_sell",
+    "rate": 10.6,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439622"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "bills_sell",
+    "rate": 10.9,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439626"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "card_sell",
+    "rate": 10.76,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439629"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "cash_sell",
+    "rate": 10.89,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439633"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "tt_sell",
+    "rate": 6.06,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439671"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "bills_sell",
+    "rate": 6.25,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439674"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "card_sell",
+    "rate": 6.18,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439678"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "cash_sell",
+    "rate": 6.27,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439681"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "tt_sell",
+    "rate": 26.17,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439718"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "bills_sell",
+    "rate": 26.81,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439722"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "card_sell",
+    "rate": 26.41,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439725"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "cash_sell",
+    "rate": 26.62,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439729"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 69.92,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439767"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 71.3,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439771"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "card_sell",
+    "rate": 70.56,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439774"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 71.05,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439777"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 58.19,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439815"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 59.33,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439819"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "card_sell",
+    "rate": 58.69,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439822"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 59.09,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439825"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "tt_sell",
+    "rate": 15.35,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439864"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "bills_sell",
+    "rate": 15.88,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439868"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "card_sell",
+    "rate": 15.54,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439871"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "cash_sell",
+    "rate": 15.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439875"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 76.07,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439912"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 77.25,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439915"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "card_sell",
+    "rate": 76.14,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439919"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 76.52,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439922"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_sell",
+    "rate": 113.18,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439959"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "bills_sell",
+    "rate": 115.09,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439963"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "card_sell",
+    "rate": 113.86,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439966"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "cash_sell",
+    "rate": 114.42,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.439970"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "tt_sell",
+    "rate": 14.55,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440006"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "bills_sell",
+    "rate": 14.93,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440010"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "card_sell",
+    "rate": 14.87,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440013"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "cash_sell",
+    "rate": 14.87,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440017"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "tt_sell",
+    "rate": 219.25,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440053"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "bills_sell",
+    "rate": 219.91,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440057"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "card_sell",
+    "rate": 222.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440060"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "cash_sell",
+    "rate": 223.15,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440063"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "tt_sell",
+    "rate": 214.82,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440101"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "bills_sell",
+    "rate": 215.46,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440105"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "card_sell",
+    "rate": 217.25,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440108"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "OMR",
+    "currency_name": "Omani Rial",
+    "transaction_type": "cash_sell",
+    "rate": 218.35,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440112"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "tt_sell",
+    "rate": 3.02,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440148"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "bills_sell",
+    "rate": 3.06,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440151"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "card_sell",
+    "rate": 3.07,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440154"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "cash_sell",
+    "rate": 3.1,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440158"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "tt_sell",
+    "rate": 317.78,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440194"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "bills_sell",
+    "rate": 323.2,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440198"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "card_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440201"
+  },
+  {
+    "bank_name": "KOTAK",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "transaction_type": "cash_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.440204"
+  }
+]

@@ -1,0 +1,1208 @@
+[
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "U.A.E. Dirham",
+    "transaction_type": "tt_buy",
+    "rate": 24.23,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.938920"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "U.A.E. Dirham",
+    "transaction_type": "tt_sell",
+    "rate": 25.84,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.938935"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "U.A.E. Dirham",
+    "transaction_type": "bills_buy",
+    "rate": 24.18,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.938936"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "U.A.E. Dirham",
+    "transaction_type": "bills_sell",
+    "rate": 25.89,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.938937"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "U.A.E. Dirham",
+    "transaction_type": "card_buy",
+    "rate": 24.08,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.938937"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "U.A.E. Dirham",
+    "transaction_type": "card_sell",
+    "rate": 25.99,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.938938"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "U.A.E. Dirham",
+    "transaction_type": "cash_buy",
+    "rate": 24.03,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.938939"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "U.A.E. Dirham",
+    "transaction_type": "cash_sell",
+    "rate": 26.04,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.938939"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 61.63,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939005"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 64.26,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939006"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 61.44,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939007"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 64.45,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939009"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "card_buy",
+    "rate": 61.34,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939010"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "card_sell",
+    "rate": 64.55,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939011"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 61.04,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939011"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 64.85,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939012"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 65.28,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939038"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 68.09,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939038"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 65.18,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939039"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 68.19,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939040"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "card_buy",
+    "rate": 64.83,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939040"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "card_sell",
+    "rate": 68.54,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939041"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 64.53,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939042"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 68.84,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939042"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_buy",
+    "rate": 114.2,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939067"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_sell",
+    "rate": 118.51,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939067"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "bills_buy",
+    "rate": 113.95,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939068"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "bills_sell",
+    "rate": 118.76,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939069"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "card_buy",
+    "rate": 114.3,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939070"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "card_sell",
+    "rate": 118.41,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939070"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "cash_buy",
+    "rate": 114.1,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939071"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "cash_sell",
+    "rate": 118.61,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939072"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan",
+    "transaction_type": "tt_buy",
+    "rate": 12.65,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939182"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan",
+    "transaction_type": "tt_sell",
+    "rate": 13.76,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939191"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan",
+    "transaction_type": "bills_buy",
+    "rate": 12.65,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939192"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan",
+    "transaction_type": "bills_sell",
+    "rate": 13.76,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939193"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "DKK",
+    "currency_name": "Danish Kroner",
+    "transaction_type": "tt_buy",
+    "rate": 14.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939291"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "DKK",
+    "currency_name": "Danish Kroner",
+    "transaction_type": "tt_sell",
+    "rate": 14.91,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939294"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "DKK",
+    "currency_name": "Danish Kroner",
+    "transaction_type": "bills_buy",
+    "rate": 13.95,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939295"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "DKK",
+    "currency_name": "Danish Kroner",
+    "transaction_type": "bills_sell",
+    "rate": 14.96,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939296"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "DKK",
+    "currency_name": "Danish Kroner",
+    "transaction_type": "card_buy",
+    "rate": 13.85,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939297"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "DKK",
+    "currency_name": "Danish Kroner",
+    "transaction_type": "card_sell",
+    "rate": 15.06,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939298"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "DKK",
+    "currency_name": "Danish Kroner",
+    "transaction_type": "cash_buy",
+    "rate": 13.8,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939299"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "DKK",
+    "currency_name": "Danish Kroner",
+    "transaction_type": "cash_sell",
+    "rate": 15.11,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939300"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_buy",
+    "rate": 105.73,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939347"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_sell",
+    "rate": 110.16,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939348"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "bills_buy",
+    "rate": 105.44,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939348"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "bills_sell",
+    "rate": 110.45,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939349"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "card_buy",
+    "rate": 105.49,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939350"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "card_sell",
+    "rate": 110.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939350"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "cash_buy",
+    "rate": 105.19,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939351"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "cash_sell",
+    "rate": 110.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939351"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "GBP",
+    "currency_name": "Great British Pound",
+    "transaction_type": "tt_buy",
+    "rate": 121.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939383"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "GBP",
+    "currency_name": "Great British Pound",
+    "transaction_type": "tt_sell",
+    "rate": 126.74,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939385"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "GBP",
+    "currency_name": "Great British Pound",
+    "transaction_type": "bills_buy",
+    "rate": 121.04,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939386"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "GBP",
+    "currency_name": "Great British Pound",
+    "transaction_type": "bills_sell",
+    "rate": 127.1,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939387"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "GBP",
+    "currency_name": "Great British Pound",
+    "transaction_type": "card_buy",
+    "rate": 121.29,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939388"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "GBP",
+    "currency_name": "Great British Pound",
+    "transaction_type": "card_sell",
+    "rate": 126.85,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939388"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "GBP",
+    "currency_name": "Great British Pound",
+    "transaction_type": "cash_buy",
+    "rate": 120.99,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939389"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "GBP",
+    "currency_name": "Great British Pound",
+    "transaction_type": "cash_sell",
+    "rate": 127.15,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939390"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 11.44,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939420"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 12.15,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939421"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 11.39,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939422"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 12.2,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939423"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "card_buy",
+    "rate": 11.29,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939423"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "card_sell",
+    "rate": 12.3,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939425"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 11.24,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939425"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 12.35,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939426"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_buy",
+    "rate": 56.48,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939454"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_sell",
+    "rate": 59.77,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939455"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "bills_buy",
+    "rate": 56.22,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939456"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "bills_sell",
+    "rate": 60.03,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939456"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "card_buy",
+    "rate": 55.87,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939457"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "card_sell",
+    "rate": 60.38,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939458"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "cash_buy",
+    "rate": 55.57,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939459"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "cash_sell",
+    "rate": 60.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939459"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 53.02,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939489"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 55.53,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939490"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 52.92,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939490"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 55.63,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939491"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "card_buy",
+    "rate": 52.57,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939492"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "card_sell",
+    "rate": 55.98,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939493"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 52.27,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939493"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 56.28,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939494"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "tt_buy",
+    "rate": 23.76,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939524"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "tt_sell",
+    "rate": 25.27,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939525"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "bills_buy",
+    "rate": 23.71,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939525"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "bills_sell",
+    "rate": 25.32,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939526"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "card_buy",
+    "rate": 23.61,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939527"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "card_sell",
+    "rate": 25.42,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939528"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "cash_buy",
+    "rate": 23.56,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939528"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "cash_sell",
+    "rate": 25.47,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939529"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Kronor",
+    "transaction_type": "tt_buy",
+    "rate": 9.83,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939557"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Kronor",
+    "transaction_type": "tt_sell",
+    "rate": 10.54,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939558"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Kronor",
+    "transaction_type": "bills_buy",
+    "rate": 9.78,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939559"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Kronor",
+    "transaction_type": "bills_sell",
+    "rate": 10.59,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939559"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Kronor",
+    "transaction_type": "card_buy",
+    "rate": 9.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939560"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Kronor",
+    "transaction_type": "card_sell",
+    "rate": 10.69,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939560"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Kronor",
+    "transaction_type": "cash_buy",
+    "rate": 9.63,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939561"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Kronor",
+    "transaction_type": "cash_sell",
+    "rate": 10.74,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939562"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 70.53,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939590"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 73.26,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939591"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 70.34,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939591"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 73.45,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939592"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "card_buy",
+    "rate": 70.49,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939593"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "card_sell",
+    "rate": 73.3,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939594"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 70.19,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939594"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 73.6,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939595"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "tt_buy",
+    "rate": 2.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939619"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "tt_sell",
+    "rate": 3.21,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939620"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "bills_buy",
+    "rate": 2.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939621"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "bills_sell",
+    "rate": 3.21,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939622"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "card_buy",
+    "rate": 2.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939622"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "card_sell",
+    "rate": 3.21,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939623"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "cash_buy",
+    "rate": 2.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939623"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "cash_sell",
+    "rate": 3.21,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939624"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 90.29,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939650"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 93.58,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939650"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 89.98,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939651"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 93.89,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939652"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "card_buy",
+    "rate": 90.33,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939653"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "card_sell",
+    "rate": 93.54,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939653"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "cash_buy",
+    "rate": 90.03,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939654"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "cash_sell",
+    "rate": 93.84,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939655"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "tt_buy",
+    "rate": 5.23,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939684"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "tt_sell",
+    "rate": 6.16,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939685"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "tt_buy",
+    "rate": 24.23,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939985"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "tt_sell",
+    "rate": 25.84,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.939994"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "bills_buy",
+    "rate": 24.18,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.940000"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "bills_sell",
+    "rate": 25.89,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.940007"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "card_buy",
+    "rate": 24.08,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.940015"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "card_sell",
+    "rate": 25.99,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.940022"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "cash_buy",
+    "rate": 24.03,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.940030"
+  },
+  {
+    "bank_name": "AXIS",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "cash_sell",
+    "rate": 26.04,
+    "base_currency": "INR",
+    "scraped_at": "2026-01-23T22:21:02.940036"
+  }
+]

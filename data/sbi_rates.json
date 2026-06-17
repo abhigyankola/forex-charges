@@ -1,0 +1,2162 @@
+[
+  {
+    "bank_name": "SBI",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 94.6,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974051"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 95.45,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974056"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "buy",
+    "rate": 94.53,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974058"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "sell",
+    "rate": 95.62,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974059"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "card_buy",
+    "rate": 94.53,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974060"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "card_sell",
+    "rate": 95.62,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974062"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "buy",
+    "rate": 93.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974063"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "sell",
+    "rate": 95.95,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974063"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "tt_buy",
+    "rate": 25.25,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974071"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "tt_sell",
+    "rate": 26.52,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974072"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "buy",
+    "rate": 25.23,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974073"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "sell",
+    "rate": 26.56,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974073"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "card_buy",
+    "rate": 25.23,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974074"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "card_sell",
+    "rate": 26.56,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974075"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "buy",
+    "rate": 24.55,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974076"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "sell",
+    "rate": 26.95,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974077"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 67.18,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974081"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 69.54,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974082"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "buy",
+    "rate": 67.14,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974083"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "sell",
+    "rate": 69.67,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974084"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "card_buy",
+    "rate": 67.14,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974085"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "card_sell",
+    "rate": 69.67,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974085"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "buy",
+    "rate": 64.65,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974086"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "sell",
+    "rate": 72.3,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974087"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "tt_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974091"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "tt_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974092"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974093"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974094"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "card_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974095"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "card_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974095"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "buy",
+    "rate": 0.62,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974096"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "transaction_type": "sell",
+    "rate": 0.8,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974097"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BAH",
+    "currency_name": "BAH",
+    "transaction_type": "tt_buy",
+    "rate": 245.6,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974101"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BAH",
+    "currency_name": "BAH",
+    "transaction_type": "tt_sell",
+    "rate": 258.38,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974102"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BAH",
+    "currency_name": "BAH",
+    "transaction_type": "buy",
+    "rate": 245.44,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974103"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BAH",
+    "currency_name": "BAH",
+    "transaction_type": "sell",
+    "rate": 258.84,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974104"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BAH",
+    "currency_name": "BAH",
+    "transaction_type": "card_buy",
+    "rate": 245.44,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974105"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BAH",
+    "currency_name": "BAH",
+    "transaction_type": "card_sell",
+    "rate": 258.84,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974106"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BAH",
+    "currency_name": "BAH",
+    "transaction_type": "buy",
+    "rate": 238.9,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974106"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "BAH",
+    "currency_name": "BAH",
+    "transaction_type": "sell",
+    "rate": 262.25,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974107"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 68.04,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974111"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 69.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974112"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "buy",
+    "rate": 67.99,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974113"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "sell",
+    "rate": 69.8,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974114"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "card_buy",
+    "rate": 67.99,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974114"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "card_sell",
+    "rate": 69.8,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974115"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "buy",
+    "rate": 64.8,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974116"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "sell",
+    "rate": 72.45,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974117"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_buy",
+    "rate": 119.6,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974120"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_sell",
+    "rate": 123.8,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974121"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "buy",
+    "rate": 119.46,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974122"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "sell",
+    "rate": 124.02,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974123"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "card_buy",
+    "rate": 119.46,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974124"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "card_sell",
+    "rate": 124.02,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974125"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "buy",
+    "rate": 113.9,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974125"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "sell",
+    "rate": 128.75,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974126"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "tt_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974130"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "tt_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974131"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "buy",
+    "rate": 13.87,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974131"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "sell",
+    "rate": 14.24,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974132"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "card_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974133"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "card_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974134"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974135"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan (Offshore)",
+    "transaction_type": "sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974136"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "tt_buy",
+    "rate": 14.69,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974139"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "tt_sell",
+    "rate": 14.95,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974140"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "buy",
+    "rate": 14.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974141"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "sell",
+    "rate": 14.98,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974142"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "card_buy",
+    "rate": 14.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974143"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "card_sell",
+    "rate": 14.98,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974144"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "buy",
+    "rate": 14.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974144"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "transaction_type": "sell",
+    "rate": 15.55,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974145"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_buy",
+    "rate": 109.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974149"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_sell",
+    "rate": 112.2,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974150"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "buy",
+    "rate": 109.34,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974151"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "sell",
+    "rate": 112.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974152"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "card_buy",
+    "rate": 109.34,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974153"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "card_sell",
+    "rate": 112.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974154"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "buy",
+    "rate": 107.8,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974155"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "sell",
+    "rate": 112.8,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974156"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "tt_buy",
+    "rate": 126.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974159"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "tt_sell",
+    "rate": 129.31,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974160"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "buy",
+    "rate": 126.34,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974161"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "sell",
+    "rate": 129.54,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974162"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "card_buy",
+    "rate": 126.34,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974163"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "card_sell",
+    "rate": 129.54,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974164"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "buy",
+    "rate": 124.6,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974165"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "sell",
+    "rate": 130.6,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974165"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 12.03,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974169"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 12.22,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974170"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "buy",
+    "rate": 12.02,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974171"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "sell",
+    "rate": 12.24,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974171"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "card_buy",
+    "rate": 12.02,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974172"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "card_sell",
+    "rate": 12.24,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974175"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "buy",
+    "rate": 11.45,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974176"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "sell",
+    "rate": 12.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974177"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_buy",
+    "rate": 59.01,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974180"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_sell",
+    "rate": 60.29,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974181"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "buy",
+    "rate": 58.96,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974182"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "sell",
+    "rate": 60.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974183"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "card_buy",
+    "rate": 58.96,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974184"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "card_sell",
+    "rate": 60.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974184"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "buy",
+    "rate": 56.2,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974185"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "sell",
+    "rate": 62.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974186"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KEN",
+    "currency_name": "KEN",
+    "transaction_type": "tt_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974190"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KEN",
+    "currency_name": "KEN",
+    "transaction_type": "tt_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974191"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KEN",
+    "currency_name": "KEN",
+    "transaction_type": "buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974191"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KEN",
+    "currency_name": "KEN",
+    "transaction_type": "sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974192"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KEN",
+    "currency_name": "KEN",
+    "transaction_type": "card_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974193"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KEN",
+    "currency_name": "KEN",
+    "transaction_type": "card_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974200"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KEN",
+    "currency_name": "KEN",
+    "transaction_type": "buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974201"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KEN",
+    "currency_name": "KEN",
+    "transaction_type": "sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974202"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KRW",
+    "currency_name": "KRW",
+    "transaction_type": "tt_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974206"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KRW",
+    "currency_name": "KRW",
+    "transaction_type": "tt_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974207"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KRW",
+    "currency_name": "KRW",
+    "transaction_type": "buy",
+    "rate": 6.14,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974208"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KRW",
+    "currency_name": "KRW",
+    "transaction_type": "sell",
+    "rate": 6.48,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974208"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KRW",
+    "currency_name": "KRW",
+    "transaction_type": "card_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974209"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KRW",
+    "currency_name": "KRW",
+    "transaction_type": "card_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974210"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KRW",
+    "currency_name": "KRW",
+    "transaction_type": "buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974211"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KRW",
+    "currency_name": "KRW",
+    "transaction_type": "sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974212"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KUW",
+    "currency_name": "KUW",
+    "transaction_type": "tt_buy",
+    "rate": 299.2,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974215"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KUW",
+    "currency_name": "KUW",
+    "transaction_type": "tt_sell",
+    "rate": 315.26,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974216"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KUW",
+    "currency_name": "KUW",
+    "transaction_type": "buy",
+    "rate": 299.01,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974217"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KUW",
+    "currency_name": "KUW",
+    "transaction_type": "sell",
+    "rate": 315.83,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974218"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KUW",
+    "currency_name": "KUW",
+    "transaction_type": "card_buy",
+    "rate": 299.01,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974219"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KUW",
+    "currency_name": "KUW",
+    "transaction_type": "card_sell",
+    "rate": 315.83,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974219"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KUW",
+    "currency_name": "KUW",
+    "transaction_type": "buy",
+    "rate": 291.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974220"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "KUW",
+    "currency_name": "KUW",
+    "transaction_type": "sell",
+    "rate": 320.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974221"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "LKR",
+    "currency_name": "LKR",
+    "transaction_type": "tt_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974225"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "LKR",
+    "currency_name": "LKR",
+    "transaction_type": "tt_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974226"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "LKR",
+    "currency_name": "LKR",
+    "transaction_type": "buy",
+    "rate": 0.26,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974227"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "LKR",
+    "currency_name": "LKR",
+    "transaction_type": "sell",
+    "rate": 0.3,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974228"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "LKR",
+    "currency_name": "LKR",
+    "transaction_type": "card_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974228"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "LKR",
+    "currency_name": "LKR",
+    "transaction_type": "card_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974229"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "LKR",
+    "currency_name": "LKR",
+    "transaction_type": "buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974230"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "LKR",
+    "currency_name": "LKR",
+    "transaction_type": "sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974231"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit",
+    "transaction_type": "tt_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974235"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit",
+    "transaction_type": "tt_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974236"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit",
+    "transaction_type": "buy",
+    "rate": 23.68,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974236"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit",
+    "transaction_type": "sell",
+    "rate": 23.98,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974237"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit",
+    "transaction_type": "card_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974238"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit",
+    "transaction_type": "card_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974239"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit",
+    "transaction_type": "buy",
+    "rate": 22.55,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974240"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit",
+    "transaction_type": "sell",
+    "rate": 25.2,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974241"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "tt_buy",
+    "rate": 10.19,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974244"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "tt_sell",
+    "rate": 10.35,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974245"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "buy",
+    "rate": 10.18,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974246"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "sell",
+    "rate": 10.36,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974247"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "card_buy",
+    "rate": 10.18,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974248"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "card_sell",
+    "rate": 10.36,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974249"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "buy",
+    "rate": 9.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974249"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "sell",
+    "rate": 10.75,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974250"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 55.74,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974254"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 58.01,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974255"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "buy",
+    "rate": 55.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974256"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "sell",
+    "rate": 58.12,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974257"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "card_buy",
+    "rate": 55.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974257"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "card_sell",
+    "rate": 58.12,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974258"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "buy",
+    "rate": 53.1,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974259"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "sell",
+    "rate": 60.35,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974260"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "OMA",
+    "currency_name": "OMA",
+    "transaction_type": "tt_buy",
+    "rate": 239.9,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974263"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "OMA",
+    "currency_name": "OMA",
+    "transaction_type": "tt_sell",
+    "rate": 253.6,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974264"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "OMA",
+    "currency_name": "OMA",
+    "transaction_type": "buy",
+    "rate": 239.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974265"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "OMA",
+    "currency_name": "OMA",
+    "transaction_type": "sell",
+    "rate": 254.05,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974266"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "OMA",
+    "currency_name": "OMA",
+    "transaction_type": "card_buy",
+    "rate": 239.7,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974267"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "OMA",
+    "currency_name": "OMA",
+    "transaction_type": "card_sell",
+    "rate": 254.05,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974268"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "OMA",
+    "currency_name": "OMA",
+    "transaction_type": "buy",
+    "rate": 233.3,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974268"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "OMA",
+    "currency_name": "OMA",
+    "transaction_type": "sell",
+    "rate": 257.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974269"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "PAK",
+    "currency_name": "PAK",
+    "transaction_type": "tt_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974273"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "PAK",
+    "currency_name": "PAK",
+    "transaction_type": "tt_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974274"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "PAK",
+    "currency_name": "PAK",
+    "transaction_type": "buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974274"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "PAK",
+    "currency_name": "PAK",
+    "transaction_type": "sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974275"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "PAK",
+    "currency_name": "PAK",
+    "transaction_type": "card_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974276"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "PAK",
+    "currency_name": "PAK",
+    "transaction_type": "card_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974277"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "PAK",
+    "currency_name": "PAK",
+    "transaction_type": "buy",
+    "rate": 0.31,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974278"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "PAK",
+    "currency_name": "PAK",
+    "transaction_type": "sell",
+    "rate": 0.36,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974279"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "QAT",
+    "currency_name": "QAT",
+    "transaction_type": "tt_buy",
+    "rate": 25.44,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974282"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "QAT",
+    "currency_name": "QAT",
+    "transaction_type": "tt_sell",
+    "rate": 26.78,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974283"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "QAT",
+    "currency_name": "QAT",
+    "transaction_type": "buy",
+    "rate": 25.43,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974284"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "QAT",
+    "currency_name": "QAT",
+    "transaction_type": "sell",
+    "rate": 26.83,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974285"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "QAT",
+    "currency_name": "QAT",
+    "transaction_type": "card_buy",
+    "rate": 25.43,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974286"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "QAT",
+    "currency_name": "QAT",
+    "transaction_type": "card_sell",
+    "rate": 26.83,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974286"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "QAT",
+    "currency_name": "QAT",
+    "transaction_type": "buy",
+    "rate": 24.75,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974287"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "QAT",
+    "currency_name": "QAT",
+    "transaction_type": "sell",
+    "rate": 27.2,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974288"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "RUB",
+    "currency_name": "RUB",
+    "transaction_type": "tt_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974291"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "RUB",
+    "currency_name": "RUB",
+    "transaction_type": "tt_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974292"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "RUB",
+    "currency_name": "RUB",
+    "transaction_type": "buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974293"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "RUB",
+    "currency_name": "RUB",
+    "transaction_type": "sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974294"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "RUB",
+    "currency_name": "RUB",
+    "transaction_type": "card_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974295"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "RUB",
+    "currency_name": "RUB",
+    "transaction_type": "card_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974296"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "RUB",
+    "currency_name": "RUB",
+    "transaction_type": "buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974296"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "RUB",
+    "currency_name": "RUB",
+    "transaction_type": "sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974297"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "tt_buy",
+    "rate": 24.42,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974301"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "tt_sell",
+    "rate": 26.13,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974302"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "buy",
+    "rate": 24.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974302"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "sell",
+    "rate": 26.17,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974303"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "card_buy",
+    "rate": 24.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974304"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "card_sell",
+    "rate": 26.17,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974305"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "buy",
+    "rate": 24.01,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974306"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "transaction_type": "sell",
+    "rate": 26.05,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974307"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "tt_buy",
+    "rate": 10.09,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974310"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "tt_sell",
+    "rate": 10.44,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974311"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "buy",
+    "rate": 10.09,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974312"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "sell",
+    "rate": 10.46,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974313"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "card_buy",
+    "rate": 10.09,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974313"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "card_sell",
+    "rate": 10.46,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974314"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "buy",
+    "rate": 9.6,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974315"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "sell",
+    "rate": 10.85,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974316"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 73.48,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974319"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 75.37,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974320"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "buy",
+    "rate": 73.43,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974321"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "sell",
+    "rate": 75.51,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974322"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "card_buy",
+    "rate": 73.43,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974322"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "card_sell",
+    "rate": 75.51,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974323"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "buy",
+    "rate": 70.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974324"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "sell",
+    "rate": 78.4,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974325"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "tt_buy",
+    "rate": 260.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974328"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "tt_sell",
+    "rate": 300.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974329"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "buy",
+    "rate": 285.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974330"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "sell",
+    "rate": 301.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974331"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "card_buy",
+    "rate": 285.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974332"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "card_sell",
+    "rate": 301.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974333"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "buy",
+    "rate": 276.2,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974333"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "THB",
+    "currency_name": "Thai Baht",
+    "transaction_type": "sell",
+    "rate": 304.45,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974334"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "TUR",
+    "currency_name": "TUR",
+    "transaction_type": "tt_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974338"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "TUR",
+    "currency_name": "TUR",
+    "transaction_type": "tt_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974339"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "TUR",
+    "currency_name": "TUR",
+    "transaction_type": "buy",
+    "rate": 2.02,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974339"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "TUR",
+    "currency_name": "TUR",
+    "transaction_type": "sell",
+    "rate": 2.13,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974340"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "TUR",
+    "currency_name": "TUR",
+    "transaction_type": "card_buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974341"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "TUR",
+    "currency_name": "TUR",
+    "transaction_type": "card_sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974342"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "TUR",
+    "currency_name": "TUR",
+    "transaction_type": "buy",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974343"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "TUR",
+    "currency_name": "TUR",
+    "transaction_type": "sell",
+    "rate": 0.0,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974344"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "tt_buy",
+    "rate": 5.35,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974347"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "tt_sell",
+    "rate": 6.41,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974349"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "buy",
+    "rate": 5.35,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974349"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "sell",
+    "rate": 6.42,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974350"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "card_buy",
+    "rate": 5.35,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974351"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "card_sell",
+    "rate": 6.42,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974352"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "buy",
+    "rate": 5.15,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974353"
+  },
+  {
+    "bank_name": "SBI",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "sell",
+    "rate": 6.55,
+    "base_currency": "INR",
+    "scraped_at": "2026-06-01T06:43:28.974354"
+  }
+]

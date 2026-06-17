@@ -1,0 +1,812 @@
+[
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "bills_buy",
+    "rate": 22.2,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316941"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "bills_sell",
+    "rate": 24.71,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316961"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "tt_buy",
+    "rate": 22.34,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316964"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "tt_sell",
+    "rate": 24.57,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316966"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "card_rate_buy",
+    "rate": 21.75,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316968"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "transaction_type": "card_rate_sell",
+    "rate": 25.16,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316969"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 54.18,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316986"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 58.21,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316988"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 54.47,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316989"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 57.93,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316991"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "card_rate_buy",
+    "rate": 53.85,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316992"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "transaction_type": "card_rate_sell",
+    "rate": 58.54,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.316994"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 60.81,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317003"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 64.76,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317004"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 60.86,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317006"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 64.71,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317007"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "card_rate_buy",
+    "rate": 60.08,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317008"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "transaction_type": "card_rate_sell",
+    "rate": 65.49,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317010"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "bills_buy",
+    "rate": 103.65,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317017"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "bills_sell",
+    "rate": 111.34,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317019"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_buy",
+    "rate": 104.36,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317020"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "tt_sell",
+    "rate": 110.63,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317022"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "card_rate_buy",
+    "rate": 103.32,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317023"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "transaction_type": "card_rate_sell",
+    "rate": 111.67,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317024"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan",
+    "transaction_type": "bills_buy",
+    "rate": 11.11,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317031"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan",
+    "transaction_type": "bills_sell",
+    "rate": 12.88,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317033"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan",
+    "transaction_type": "tt_buy",
+    "rate": 11.11,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317034"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan",
+    "transaction_type": "tt_sell",
+    "rate": 12.88,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317035"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan",
+    "transaction_type": "card_rate_buy",
+    "rate": 10.83,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317036"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "CNH",
+    "currency_name": "Chinese Yuan",
+    "transaction_type": "card_rate_sell",
+    "rate": 13.17,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317038"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "bills_buy",
+    "rate": 96.48,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317044"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "bills_sell",
+    "rate": 104.15,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317046"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_buy",
+    "rate": 97.44,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317047"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "tt_sell",
+    "rate": 103.2,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317049"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "card_rate_buy",
+    "rate": 96.47,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317050"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "transaction_type": "card_rate_sell",
+    "rate": 104.16,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317051"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "bills_buy",
+    "rate": 112.26,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317057"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "bills_sell",
+    "rate": 119.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317059"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "tt_buy",
+    "rate": 112.77,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317061"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "tt_sell",
+    "rate": 119.05,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317062"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "card_rate_buy",
+    "rate": 111.31,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317063"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "GBP",
+    "currency_name": "British Pound",
+    "transaction_type": "card_rate_sell",
+    "rate": 120.51,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317065"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 10.17,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317072"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 11.79,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317073"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 10.58,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317075"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 11.38,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317076"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "card_rate_buy",
+    "rate": 9.95,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317077"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "transaction_type": "card_rate_sell",
+    "rate": 12.0,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317079"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "bills_buy",
+    "rate": 0.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317085"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "bills_sell",
+    "rate": 0.6,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317087"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_buy",
+    "rate": 0.5635,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317088"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "tt_sell",
+    "rate": 0.5964,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317089"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "card_rate_buy",
+    "rate": 0.5567,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317090"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "JPY",
+    "currency_name": "Japanese Yen",
+    "transaction_type": "card_rate_sell",
+    "rate": 0.6032,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317092"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "bills_buy",
+    "rate": 7.84,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317099"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "bills_sell",
+    "rate": 9.09,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317100"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "tt_buy",
+    "rate": 7.84,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317101"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "tt_sell",
+    "rate": 9.09,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317103"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "card_rate_buy",
+    "rate": 7.51,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317104"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "transaction_type": "card_rate_sell",
+    "rate": 9.41,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317105"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 49.72,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317112"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 53.19,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317114"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 49.91,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317115"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 53.01,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317116"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "card_rate_buy",
+    "rate": 49.31,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317118"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "transaction_type": "card_rate_sell",
+    "rate": 53.61,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317119"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "bills_buy",
+    "rate": 8.55,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317126"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "bills_sell",
+    "rate": 9.28,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317127"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "tt_buy",
+    "rate": 8.57,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317129"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "tt_sell",
+    "rate": 9.26,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317130"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "card_rate_buy",
+    "rate": 8.57,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317131"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "transaction_type": "card_rate_sell",
+    "rate": 9.26,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317132"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 65.15,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317139"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 69.13,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317140"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 65.45,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317142"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 68.82,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317143"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "card_rate_buy",
+    "rate": 64.56,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317144"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "transaction_type": "card_rate_sell",
+    "rate": 69.71,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317147"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "bills_buy",
+    "rate": 83.8,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317153"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "bills_sell",
+    "rate": 88.51,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317155"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "tt_buy",
+    "rate": 84.6,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317156"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "tt_sell",
+    "rate": 87.71,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317157"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "card_rate_buy",
+    "rate": 83.35,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317159"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "transaction_type": "card_rate_sell",
+    "rate": 88.96,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317165"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "bills_buy",
+    "rate": 4.5,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317172"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "bills_sell",
+    "rate": 5.22,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317173"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "tt_buy",
+    "rate": 4.5,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317175"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "tt_sell",
+    "rate": 5.22,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317176"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "card_rate_buy",
+    "rate": 4.46,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317177"
+  },
+  {
+    "bank_name": "IDFC",
+    "currency_code": "ZAR",
+    "currency_name": "South African Rand",
+    "transaction_type": "card_rate_sell",
+    "rate": 5.27,
+    "base_currency": "INR",
+    "scraped_at": "2025-07-19T17:16:21.317178"
+  }
+]
