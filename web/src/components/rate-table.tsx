@@ -1,3 +1,6 @@
+"use client";
+
+import { useState } from "react";
 import {
   Table,
   TableBody,
@@ -19,6 +22,8 @@ const COLUMNS: { key: TransactionType; label: string }[] = [
   { key: "bills_sell", label: "Bills Sell" },
 ];
 
+type SortDirection = "asc" | "desc" | null;
+
 function findBest(
   rows: BankCurrencyRates[],
   key: TransactionType
@@ -38,6 +43,9 @@ function findWorst(
 }
 
 export function RateTable({ data }: { data: BankCurrencyRates[] }) {
+  const [sortKey, setSortKey] = useState<TransactionType | "bank" | null>(null);
+  const [sortDir, setSortDir] = useState<SortDirection>(null);
+
   const visibleColumns = COLUMNS.filter((col) =>
     data.some((row) => row[col.key] != null)
   );
@@ -49,26 +57,60 @@ export function RateTable({ data }: { data: BankCurrencyRates[] }) {
     worstValues[col.key] = findWorst(data, col.key);
   }
 
+  function handleSort(key: TransactionType | "bank") {
+    if (sortKey === key) {
+      if (sortDir === "desc") setSortDir("asc");
+      else if (sortDir === "asc") {
+        setSortKey(null);
+        setSortDir(null);
+      }
+    } else {
+      setSortKey(key);
+      setSortDir("desc");
+    }
+  }
+
+  const sortedData = [...data].sort((a, b) => {
+    if (!sortKey || !sortDir) return 0;
+    if (sortKey === "bank") {
+      return sortDir === "asc"
+        ? a.bank_name.localeCompare(b.bank_name)
+        : b.bank_name.localeCompare(a.bank_name);
+    }
+    const aVal = a[sortKey] ?? -Infinity;
+    const bVal = b[sortKey] ?? -Infinity;
+    return sortDir === "asc" ? aVal - bVal : bVal - aVal;
+  });
+
+  function getSortIndicator(key: TransactionType | "bank") {
+    if (sortKey !== key) return <span className="ml-1 text-muted-foreground/40">↕</span>;
+    return <span className="ml-1">{sortDir === "desc" ? "↓" : "↑"}</span>;
+  }
+
   return (
     <div className="overflow-x-auto rounded-md border border-border">
       <Table>
         <TableHeader>
           <TableRow className="hover:bg-transparent">
-            <TableHead className="text-[12px] font-semibold uppercase tracking-wide text-muted-foreground">
-              Bank
+            <TableHead
+              className="cursor-pointer select-none text-[12px] font-semibold uppercase tracking-wide text-muted-foreground transition-colors hover:text-foreground"
+              onClick={() => handleSort("bank")}
+            >
+              Bank{getSortIndicator("bank")}
             </TableHead>
             {visibleColumns.map((col) => (
               <TableHead
                 key={col.key}
-                className="text-right text-[12px] font-semibold uppercase tracking-wide text-muted-foreground"
+                className="cursor-pointer select-none text-right text-[12px] font-semibold uppercase tracking-wide text-muted-foreground transition-colors hover:text-foreground"
+                onClick={() => handleSort(col.key)}
               >
-                {col.label}
+                {col.label}{getSortIndicator(col.key)}
               </TableHead>
             ))}
           </TableRow>
         </TableHeader>
         <TableBody>
-          {data.map((row) => (
+          {sortedData.map((row) => (
             <TableRow key={row.bank_name}>
               <TableCell className="text-[13px] font-medium text-foreground">
                 {row.bank_name}

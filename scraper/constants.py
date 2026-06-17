@@ -68,6 +68,7 @@ PER_HUNDRED_THRESHOLDS: dict[str, float] = {
     "JPY": 5.0,
     "KRW": 1.0,
     "LKR": 5.0,
+    "THB": 10.0,
 }
 
 

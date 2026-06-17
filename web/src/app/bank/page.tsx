@@ -2,26 +2,14 @@ import type { Metadata } from "next";
 import { Suspense } from "react";
 import { Nav } from "@/components/nav";
 import { BankSelector } from "@/components/bank-selector";
+import { BankRateTable } from "@/components/bank-rate-table";
 import {
   loadRates,
   getAllBanks,
   getRatesByBank,
   getLastScrapedDate,
 } from "@/lib/data";
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "@/components/ui/table";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import {
-  TransactionType,
-  TRANSACTION_TYPE_LABELS,
-  ALL_TRANSACTION_TYPES,
-} from "@/lib/types";
+import { TransactionType } from "@/lib/types";
 
 function groupByCurrency(
   rates: { currency_code: string; currency_name: string; transaction_type: TransactionType; rate: number }[]
@@ -44,16 +32,6 @@ function groupByCurrency(
     a.currency_code.localeCompare(b.currency_code)
   );
 }
-
-type TabCategory = "all" | "tt" | "card" | "cash" | "bills";
-
-const TAB_TYPES: Record<TabCategory, TransactionType[]> = {
-  all: ALL_TRANSACTION_TYPES,
-  tt: ["tt_buy", "tt_sell"],
-  card: ["card_buy", "card_sell"],
-  cash: ["cash_buy", "cash_sell"],
-  bills: ["bills_buy", "bills_sell"],
-};
 
 export const metadata: Metadata = {
   title: "Forex Rates by Bank",
@@ -95,81 +73,7 @@ export default async function BankPage({
           </Suspense>
         </div>
 
-        <Tabs defaultValue="all">
-          <TabsList className="mb-4 h-9 rounded-lg bg-secondary p-0.5">
-            {(
-              [
-                ["all", "All"],
-                ["tt", "TT"],
-                ["card", "Card"],
-                ["cash", "Cash"],
-                ["bills", "Bills"],
-              ] as [TabCategory, string][]
-            ).map(([value, label]) => (
-              <TabsTrigger
-                key={value}
-                value={value}
-                className="rounded-md px-3 py-1 text-[12px] font-medium data-[state=active]:bg-card data-[state=active]:text-foreground data-[state=active]:shadow-sm"
-              >
-                {label}
-              </TabsTrigger>
-            ))}
-          </TabsList>
-
-          {(Object.entries(TAB_TYPES) as [TabCategory, TransactionType[]][]).map(
-            ([tabKey, types]) => {
-              const visibleTypes = types.filter((t) =>
-                grouped.some((g) => g.rates[t] != null)
-              );
-
-              return (
-                <TabsContent key={tabKey} value={tabKey}>
-                  <div className="overflow-x-auto rounded-md border border-border">
-                    <Table>
-                      <TableHeader>
-                        <TableRow className="hover:bg-transparent">
-                          <TableHead className="text-[12px] font-semibold uppercase tracking-wide text-muted-foreground">
-                            Currency
-                          </TableHead>
-                          {visibleTypes.map((t) => (
-                            <TableHead
-                              key={t}
-                              className="text-right text-[12px] font-semibold uppercase tracking-wide text-muted-foreground"
-                            >
-                              {TRANSACTION_TYPE_LABELS[t]}
-                            </TableHead>
-                          ))}
-                        </TableRow>
-                      </TableHeader>
-                      <TableBody>
-                        {grouped.map((g) => (
-                          <TableRow key={g.currency_code}>
-                            <TableCell className="text-[13px] font-medium text-foreground">
-                              {g.currency_code}
-                              <span className="ml-1.5 text-[12px] text-muted-foreground">
-                                {g.currency_name}
-                              </span>
-                            </TableCell>
-                            {visibleTypes.map((t) => (
-                              <TableCell
-                                key={t}
-                                className="text-right font-mono text-[13px] text-foreground"
-                              >
-                                {g.rates[t] != null
-                                  ? g.rates[t].toFixed(2)
-                                  : "—"}
-                              </TableCell>
-                            ))}
-                          </TableRow>
-                        ))}
-                      </TableBody>
-                    </Table>
-                  </div>
-                </TabsContent>
-              );
-            }
-          )}
-        </Tabs>
+        <BankRateTable grouped={grouped} />
       </main>
     </>
   );

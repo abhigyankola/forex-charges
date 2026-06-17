@@ -35,6 +35,52 @@ const PER_HUNDRED_THRESHOLDS: Record<string, number> = {
   JPY: 5,
   KRW: 1,
   LKR: 5,
+  THB: 10,
+};
+
+// SBI uses non-standard abbreviations for some currencies
+const CURRENCY_CODE_ALIASES: Record<string, string> = {
+  BAH: "BHD",
+  KUW: "KWD",
+  OMA: "OMR",
+  QAT: "QAR",
+  TUR: "TRY",
+  KEN: "KES",
+  PAK: "PKR",
+};
+
+const CURRENCY_NAME_MAP: Record<string, string> = {
+  BHD: "Bahraini Dinar",
+  KWD: "Kuwaiti Dinar",
+  OMR: "Omani Rial",
+  QAR: "Qatari Riyal",
+  TRY: "Turkish Lira",
+  KES: "Kenyan Shilling",
+  PKR: "Pakistani Rupee",
+  RUB: "Russian Ruble",
+  AED: "UAE Dirham",
+  AUD: "Australian Dollar",
+  CAD: "Canadian Dollar",
+  CHF: "Swiss Franc",
+  CNH: "Chinese Yuan",
+  DKK: "Danish Krone",
+  EUR: "Euro",
+  GBP: "British Pound",
+  HKD: "Hong Kong Dollar",
+  JPY: "Japanese Yen",
+  KRW: "South Korean Won",
+  LKR: "Sri Lankan Rupee",
+  MXN: "Mexican Peso",
+  MYR: "Malaysian Ringgit",
+  NOK: "Norwegian Krone",
+  NZD: "New Zealand Dollar",
+  PLN: "Polish Zloty",
+  SAR: "Saudi Riyal",
+  SEK: "Swedish Krona",
+  SGD: "Singapore Dollar",
+  THB: "Thai Baht",
+  USD: "US Dollar",
+  ZAR: "South African Rand",
 };
 
 // Clean up currency names that contain unit indicators like "/ 100" or "()"
@@ -81,13 +127,18 @@ export function loadRates(): NormalizedRate[] {
     if (!txType) continue;
 
     let rate = r.rate;
-    const threshold = PER_HUNDRED_THRESHOLDS[r.currency_code];
+    if (rate <= 0) continue;
+
+    let code = r.currency_code.toUpperCase().trim();
+    code = CURRENCY_CODE_ALIASES[code] ?? code;
+
+    const threshold = PER_HUNDRED_THRESHOLDS[code];
     if (threshold !== undefined && rate > threshold) {
       rate = rate / 100;
     }
 
-    const currencyName = cleanCurrencyName(r.currency_code, r.currency_name);
-    normalized.push({ ...r, rate, currency_name: currencyName, transaction_type: txType });
+    const currencyName = CURRENCY_NAME_MAP[code] ?? cleanCurrencyName(code, r.currency_name);
+    normalized.push({ ...r, rate, currency_code: code, currency_name: currencyName, transaction_type: txType });
   }
 
   // Deduplicate: keep the entry with the latest scraped_at for each unique combo
